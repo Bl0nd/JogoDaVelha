@@ -51,6 +51,7 @@
             btnA1.TabIndex = 0;
             btnA1.Text = "X";
             btnA1.UseVisualStyleBackColor = false;
+            btnA1.Click += btnA1_Click;
             // 
             // btnC2
             // 
@@ -63,6 +64,7 @@
             btnC2.TabIndex = 1;
             btnC2.Text = "X";
             btnC2.UseVisualStyleBackColor = false;
+            btnC2.Click += btnC2_Click;
             // 
             // btnA3
             // 
@@ -75,6 +77,7 @@
             btnA3.TabIndex = 2;
             btnA3.Text = "X";
             btnA3.UseVisualStyleBackColor = false;
+            btnA3.Click += btnA3_Click;
             // 
             // btnA2
             // 
@@ -87,6 +90,7 @@
             btnA2.TabIndex = 3;
             btnA2.Text = "X";
             btnA2.UseVisualStyleBackColor = false;
+            btnA2.Click += btnA2_Click;
             // 
             // btnC1
             // 
@@ -99,6 +103,7 @@
             btnC1.TabIndex = 4;
             btnC1.Text = "X";
             btnC1.UseVisualStyleBackColor = false;
+            btnC1.Click += btnC1_Click;
             // 
             // btnB3
             // 
@@ -111,6 +116,7 @@
             btnB3.TabIndex = 5;
             btnB3.Text = "X";
             btnB3.UseVisualStyleBackColor = false;
+            btnB3.Click += btnB3_Click;
             // 
             // btnB2
             // 
@@ -123,6 +129,7 @@
             btnB2.TabIndex = 6;
             btnB2.Text = "X";
             btnB2.UseVisualStyleBackColor = false;
+            btnB2.Click += btnB2_Click;
             // 
             // btnB1
             // 
@@ -135,6 +142,7 @@
             btnB1.TabIndex = 7;
             btnB1.Text = "X";
             btnB1.UseVisualStyleBackColor = false;
+            btnB1.Click += btnB1_Click;
             // 
             // btnC3
             // 
@@ -147,6 +155,7 @@
             btnC3.TabIndex = 8;
             btnC3.Text = "X";
             btnC3.UseVisualStyleBackColor = false;
+            btnC3.Click += btnC3_Click;
             // 
             // lblJogadorInfo
             // 
