@@ -150,7 +150,7 @@ namespace JogoDaVelha
 
             if (temosGanhador == true)
             {
-                MessageBox.Show($"{lblJogadorInfo.Text} GANHOU !!! EEE");
+                MessageBox.Show($"{lblJogadorInfo.Text} GANHOU !!!");
 
                 //desativar os botões
                 btnA1.Enabled = false;
